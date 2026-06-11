@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-market-research
+description: "BIAN Service Domain: Market Research (Analyze pattern, Sales and Service)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - analyze
+annotations:
+  bian/business-area: "Sales and Service"
+  bian/business-domain: "Marketing"
+  bian/asset-type: "Market Research Study"
+  bian/control-record: "Market Research Study Analysis"
